@@ -7,7 +7,7 @@ Este repositório contém todos os testes efetuados ao longo da pesquisa.
 Conteúdo da pasta wilcoxon_test.zip:
 
 - finaltest
-  . F2Hhmc x F2Hkmeans_all x F2Hkohonen_all
+  - F2Hhmc x F2Hkmeans_all x F2Hkohonen_all
 
 - kmeans007
-  . F2Hhmc x F2Hkmeans_all
+  - F2Hhmc x F2Hkmeans_all
