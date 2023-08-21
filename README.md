@@ -1,4 +1,4 @@
-# pibic
+# Iniciação Científica (PIBIC) - Resultados -
 
 Título: Uso dos Algoritmos K-Means e Kohonen para Induzir Hierarquias de Rótulos na Transformação de Problema de Classificação Multirrótulo
 
