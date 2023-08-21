@@ -4,7 +4,7 @@ Título: Uso dos Algoritmos K-Means e Kohonen para Induzir Hierarquias de Rótul
 
 Este repositório contém todos os testes efetuados ao longo da pesquisa. 
 
-Conteúdo da pasta zip:
+Conteúdo da pasta wilcoxon_test.zip:
 
 - finaltest
   . F2Hhmc x F2Hkmeans_all x F2Hkohonen_all
